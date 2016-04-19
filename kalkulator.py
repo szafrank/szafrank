@@ -7,3 +7,7 @@ def prostokat(a,b):
     return a*b
 def trojkat(a,b,c):
     return math.sqrt((a+b+c)*(a+b-c)*(a-b+c)*(-a+b+c))/4
+
+
+def mnożenie(x, y)
+    return (x * y)
